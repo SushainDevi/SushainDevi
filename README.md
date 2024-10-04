@@ -40,34 +40,34 @@ Here are some of my highlighted pinned projects on GitHub:
   </thead>
   <tbody>
     <tr>
-      <td>Project 1</td>
-      <td>Brief description of Project 1.</td>
-      <td><a href="https://github.com/YourUsername/Project1">GitHub</a></td>
+      <td>DocChat</td>
+      <td>DocChat is an AI-powered Document Summarization and Chatbot System designed to automate the extraction, cleaning, and summarization of text from various document formats. Built using state-of-the-art machine learning models, it provides a robust solution for interacting with uploaded documents through a user-friendly chatbot interface.</td>
+      <td><a href="https://github.com/SushainDevi/DocChat">GitHub</a></td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td>Brief description of Project 2.</td>
-      <td><a href="https://github.com/YourUsername/Project2">GitHub</a></td>
+      <td>Music-Recomendation-SpotifyAPI</td>
+      <td>This repository contains code for a music recommendation system that utilizes the Spotify API to extract music data and provide personalized recommendations based on user input. The system employs a hybrid approach, combining content-based filtering and popularity-based scoring to generate relevant recommendations.</td>
+      <td><a href="https://github.com/SushainDevi/Music-Recomendation-SpotifyAPI">GitHub</a></td>
     </tr>
     <tr>
-      <td>Project 3</td>
-      <td>Brief description of Project 3.</td>
-      <td><a href="https://github.com/YourUsername/Project3">GitHub</a></td>
+      <td>TextToVideo-Model</td>
+      <td>This project implements a text-to-video generation system using deep learning techniques. It creates videos based on textual prompts by generating sequences of images that depict moving shapes, specifically circles, in various directions and transformations.</td>
+      <td><a href="https://github.com/SushainDevi/TextToVideo-Model">GitHub</a></td>
     </tr>
     <tr>
-      <td>Project 4</td>
-      <td>Brief description of Project 4.</td>
-      <td><a href="https://github.com/YourUsername/Project4">GitHub</a></td>
+      <td>LLaMA-3-Like-Transformer-Model-Implementation</td>
+      <td>The project demonstrates how to build a transformer-based large language model from scratch by incorporating components like tokenization, rotary positional encoding (RoPE), attention mechanisms, feedforward networks, and more.</td>
+      <td><a href="https://github.com/SushainDevi/LLaMA-3-Like-Transformer-Model-Implementation">GitHub</a></td>
     </tr>
     <tr>
-      <td>Project 5</td>
-      <td>Brief description of Project 5.</td>
-      <td><a href="https://github.com/YourUsername/Project5">GitHub</a></td>
+      <td>OnlineLibrary-master</td>
+      <td>Online library management system is a web application designed to facilitate the management of books. The frontend is built using HTML, CSS, and JavaScript, providing a user-friendly interface for users to interact with. Users can add books to their cart, allowing them to keep track of the books they're interested in.</td>
+      <td><a href="https://github.com/SushainDevi/OnlineLibrary-master">GitHub</a></td>
     </tr>
     <tr>
-      <td>Project 6</td>
-      <td>Brief description of Project 6.</td>
-      <td><a href="https://github.com/YourUsername/Project6">GitHub</a></td>
+      <td>Blender_Animation</td>
+      <td>A 30-second Blender animation where a garage opens to reveal a BMW car and a sports bike. During the animation, the BMW car exits the garage and runs along a path for about 3 seconds. This suggests an engaging scenario of dynamic movement and showcases my skills in creating animated sequences.</td>
+      <td><a href="https://github.com/SushainDevi/Blender_Animation">GitHub</a></td>
     </tr>
   </tbody>
 </table>
@@ -119,5 +119,5 @@ Here are some of my highlighted pinned projects on GitHub:
   <br>
   Currently Coding & Listening to:
   <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default">
+  <img src="https://open.spotify.com/user/j82r593aarv2ijkto93ulek06?si=0d6d2ffd9b2c478f.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default">
 </details>
