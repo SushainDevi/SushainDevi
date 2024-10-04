@@ -22,9 +22,13 @@
 </p>
 
 🎓 Pursuing a Bachelor of Technology in Computer Science & Engineering at MIT WPU, Pune.
+
 💻 Currently working on AI-driven projects, including document summarization and text-to-video synthesis.
+
 📚 Exploring advanced topics in AI, Machine Learning, NLP, and Generative AI.
+
 🖥️ Contributing to open-source projects, such as a Hierarchical Recurrent Neural Network for text generation and a collaborative filtering system for music recommendations.
+
 
 ## Projects
 
