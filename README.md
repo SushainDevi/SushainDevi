@@ -1,69 +1,123 @@
-<h1 align="center">Hi 👋, I'm Sushain Devi</h1>
-<h3 align="center">AI Developer | Machine Learning Specialist | NLP Expert | Innovating Intelligent Solutions</h3>
-
-<!-- Dynamic Header GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="AI/ML Header Animation" style="width:100%;">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushaindevi&label=Profile%20views&color=0e75b6&style=flat" alt="sushaindevi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushaindevi" alt="sushaindevi" /></a> </p>
-
-<!-- About me -->
-- 🔭 I’m currently working on **DocChat** - an AI-driven document chatbot.
-- 🌱 I’m currently learning **Generative AI, NLP, Transformer Models**.
-- 📫 How to reach me: **devisushain@gmail.com**
-- 📄 View my resume [here](https://sushain-devi-resume.tiiny.site)
-
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sushain devi" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" width="40" />
+<p align="center">
+  <a href="https://github.com/SushainDevi">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sushain+Devi;Software+Developer+%7C+Engineer;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
   </a>
-  <a href="https://instagram.com/sushaindevi" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="40" width="40" />
+  <br/>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
   </a>
-  <a href="https://wa.me/919130608179" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" height="40" width="40" />
+  <a href="https://yourwebsite.com/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
+  </a>
+  <a href="https://www.linkedin.com/in/sushaindevi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:devisushain@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <br/>
+  <a href="https://github.com/SushainDevi">
+    <img src="https://github-stats-alpha.vercel.app/api?username=SushainDevi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
 
-<!-- GitHub Stats & Activity -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushaindevi&show_icons=true&locale=en&layout=compact" alt="sushaindevi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushaindevi&show_icons=true&locale=en" alt="sushaindevi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushaindevi&" alt="sushaindevi" /></p>
+🎓 Pursuing Your Degree in Your Field at Your University.  
+💻 Working on current project or field.  
+📚 Exploring AI, Data Science, or other fields.  
+🖥️ Open-Source Projects
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-</p>
+## Projects
 
-<!-- Footer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Footer GIF" style="width:100%;"/>
+Here are some of my highlighted pinned projects on GitHub:
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project 1</td>
+      <td>Brief description of Project 1.</td>
+      <td><a href="https://github.com/YourUsername/Project1">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Project 2</td>
+      <td>Brief description of Project 2.</td>
+      <td><a href="https://github.com/YourUsername/Project2">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Project 3</td>
+      <td>Brief description of Project 3.</td>
+      <td><a href="https://github.com/YourUsername/Project3">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Project 4</td>
+      <td>Brief description of Project 4.</td>
+      <td><a href="https://github.com/YourUsername/Project4">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Project 5</td>
+      <td>Brief description of Project 5.</td>
+      <td><a href="https://github.com/YourUsername/Project5">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Project 6</td>
+      <td>Brief description of Project 6.</td>
+      <td><a href="https://github.com/YourUsername/Project6">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
+
+## Tools & Technologies
+
+### 🖥️ Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Tools:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD500?style=flat-square&logo=huggingface&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🌐 APIs & Services:
+![Gemini API](https://img.shields.io/badge/Gemini%20API-gray?style=flat-square&logo=api)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai)
+![BART API](https://img.shields.io/badge/BART%20API-blue?style=flat-square&logo=api)
+![Spotify API](https://img.shields.io/badge/Spotify%20API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![Hugging Face API](https://img.shields.io/badge/Hugging%20Face%20API-FFD500?style=flat-square&logo=huggingface&logoColor=white)
+
+### 🗄️ Databases:
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 💻 Technologies:
+- **Machine Learning | NLP | GANs | HRNNs | Generative AI | Prompt Engineering | Data Science**
+- **Text Summarization | Recommendation Systems | Document Processing | Deep Learning**
+
+### 📚 Libraries:
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-42B029?style=flat-square&logo=pillow&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+<details>
+  <summary>📈 Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical">
+  <br>
+  Currently Coding & Listening to:
+  <br>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default">
+</details>
