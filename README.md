@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sushain+Devi;Software+Developer+%7C+Engineer;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
+  <a href="https://COMING SOON">
+    <img src="https://img.shields.io/badge/Website-COMING SOON-red?style=flat-square">
   </a>
   <a href="https://yourwebsite.com/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
