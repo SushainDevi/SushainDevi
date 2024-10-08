@@ -116,14 +116,11 @@ Here are some of my highlighted pinned projects on GitHub:
 ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-<details>
-  <summary>📈 Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical">
+</music>
   <br>
   Currently Coding & Listening to:
   <br>
   <a href="https://open.spotify.com/playlist/6FuPRHeFZi0fvPTd2iKBrc" target="_blank">
       <img src="https://images.app.goo.gl/Z18u8K6UGXH5x99t9" alt="Spotify Icon">
   </a>
-</details>
+</music>
