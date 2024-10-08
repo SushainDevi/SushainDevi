@@ -123,5 +123,7 @@ Here are some of my highlighted pinned projects on GitHub:
   <br>
   Currently Coding & Listening to:
   <br>
-  <img src="https://open.spotify.com/user/j82r593aarv2ijkto93ulek06?si=0d6d2ffd9b2c478f.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default">
+  <a href="https://open.spotify.com/playlist/6FuPRHeFZi0fvPTd2iKBrc" target="_blank">
+      <img src="https://images.app.goo.gl/Z18u8K6UGXH5x99t9" alt="Spotify Icon">
+  </a>
 </details>
