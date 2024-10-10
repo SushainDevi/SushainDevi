@@ -6,7 +6,7 @@
   <a href="https://COMING SOON">
     <img src="https://img.shields.io/badge/Website-COMING SOON-red?style=flat-square">
   </a>
-  <a href="https://yourwebsite.com/Resume.pdf">
+  <a href="https://sushain-devi-resume.tiiny.site/">
     <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
   </a>
   <a href="https://www.linkedin.com/in/sushaindevi/">
