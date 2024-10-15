@@ -107,8 +107,18 @@ Here are some of my highlighted pinned projects on GitHub:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 💻 Technologies:
-- **Machine Learning | NLP | GANs | HRNNs | Generative AI | Prompt Engineering | Data Science**
-- **Text Summarization | Recommendation Systems | Document Processing | Deep Learning**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00BFFF?style=flat-square&logo=natural-language-processing&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-8E44AD?style=flat-square&logo=gan&logoColor=white)
+![HRNNs](https://img.shields.io/badge/HRNNs-2980B9?style=flat-square&logo=hrnns&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF8C00?style=flat-square&logo=generative-ai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2C3E50?style=flat-square&logo=prompt-engineering&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-3498DB?style=flat-square&logo=data-science&logoColor=white)
+![Text Summarization](https://img.shields.io/badge/Text%20Summarization-00C853?style=flat-square&logo=text-summarization&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FF5722?style=flat-square&logo=recommendation-systems&logoColor=white)
+![Document Processing](https://img.shields.io/badge/Document%20Processing-1E88E5?style=flat-square&logo=document-processing&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4081?style=flat-square&logo=deep-learning&logoColor=white)
+
 
 ### 📚 Libraries:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -121,6 +131,7 @@ Here are some of my highlighted pinned projects on GitHub:
   Currently Coding & Listening to:
   <br>
   <a href="https://open.spotify.com/playlist/6FuPRHeFZi0fvPTd2iKBrc" target="_blank">
-      <img src="https://images.app.goo.gl/Z18u8K6UGXH5x99t9" alt="Spotify Icon">
+      <img src="https://cdn.dribbble.com/users/441326/screenshots/3165191/media/45c2723efdf8be2140ff43913cbe8a3f.gif" alt="Spotify Logo" width="100">
   </a>
 </music>
+
