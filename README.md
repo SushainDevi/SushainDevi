@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SushainDevi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sushain+Devi;Software+Developer+%7C+Engineer;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sushain+Devi;AI / ML+Developer+%7C+Engineer;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://COMING SOON">
