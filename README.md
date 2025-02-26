@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sushain+Devi;AI / ML+Developer+%7C+Engineer;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://COMING SOON">
+  <a href="https://sushaindevi.netlify.app/">
     <img src="https://img.shields.io/badge/Website-COMING SOON-red?style=flat-square">
   </a>
   <a href="https://sushain-devi-resume.tiiny.site/">
