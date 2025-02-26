@@ -4,7 +4,7 @@
   </a>
   <br/>
   <a href="https://sushaindevi.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-COMING SOON-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
   </a>
   <a href="https://sushain-devi-resume.tiiny.site/">
     <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
